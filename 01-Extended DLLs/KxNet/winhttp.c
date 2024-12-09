@@ -1,11 +1,6 @@
 #include "buildcfg.h"
 #include "kxnetp.h"
 
-KXNETAPI DWORD WINAPI WinHttpWebSocketClose( HINTERNET hsocket, USHORT status, void *reason, DWORD len )
-{
-	return WinHttpCloseHandle(hsocket);
-}
-
 KXNETAPI ULONG WINAPI WinHttpCreateProxyResolver(
 	IN	HINTERNET	SessionHandle,
 	OUT	HINTERNET	*Resolver)

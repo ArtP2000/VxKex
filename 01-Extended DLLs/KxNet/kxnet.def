@@ -4,7 +4,6 @@ EXPORTS
 	DnsQueryEx
 
 	;; winhttp.c
-	WinHttpWebSocketClose
 	WinHttpCreateProxyResolver
 	WinHttpGetProxyForUrlEx
 	WinHttpGetProxyResult
