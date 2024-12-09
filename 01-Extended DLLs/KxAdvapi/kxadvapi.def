@@ -1,5 +1,0 @@
-LIBRARY KxAdvapi
-EXPORTS
-	EventSetInformation = KexDll.KexEtwEventSetInformation
-	EnumDynamicTimeZoneInformation = KexDll.EnumDynamicTimeZoneInformation
-	GetDynamicTimeZoneInformationEffectiveYears = KexDll.GetDynamicTimeZoneInformationEffectiveYears
