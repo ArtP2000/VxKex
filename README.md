@@ -1,2 +1,2 @@
 # VxKex
-Windows 7 API Extensions
+Based on vxiiduu's 1.1.2.1428 VxKex
